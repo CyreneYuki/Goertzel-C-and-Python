@@ -1,2 +1,3 @@
 # Goertzel
- C and Python
+Goertzel算法的C语言和python实现
+
